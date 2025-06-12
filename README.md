@@ -1,4 +1,3 @@
-
 # Prodigy InfoTech Internship Task 3 : Decision Tree Classifier
 
 Welcome to my Prodigy InfoTech Internship repository! This repository documents are for Task 3 of my internship journey, focusing on building a decision tree classifier for predicting whether a customer will purchase a product or service, based on their demographic and behavioral data. It focuses on analysis and uncovering various patterns. 
